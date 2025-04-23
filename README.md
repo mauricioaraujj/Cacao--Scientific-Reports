@@ -16,7 +16,9 @@ The study proposes a multi-trait selection framework to identify cacao genotypes
 
 If you use or refer to this work, please cite the following article:
 
-> Araujo, M. S., et al. (2025). *Multi‑trait selection for nutritional and physiological quality of cacao genotypes in irrigated and non‑irrigated environments*. [Journal Name], [Volume(Issue)], [Page numbers]. https://doi.org/xxxxxxx
+> Araujo, M. S., Chaves, S. F. S., Pereira, G. R., et al. (2024). Multi-trait selection for nutritional and physiological quality of cacao genotypes in irrigated and non-irrigated environments. *Scientific Reports, 14*, 6368. https://doi.org/10.1038/s41598-024-56556-7
+
+
 
 ---
 
