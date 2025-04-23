@@ -4,7 +4,7 @@
 
 ## 📘 Overview
 
-This repository contains the scripts, datasets, and figures related to the scientific article:
+This repository contains the dataset related to the scientific article:
 
 **"Multi‑trait selection for nutritional and physiological quality of cacao genotypes in irrigated and non‑irrigated environments"**
 
@@ -26,8 +26,7 @@ If you use or refer to this work, please cite the following article:
 
 ```bash
 ├── data/                 # Phenotypic datasets (CSV)
-├── scripts/              # R scripts for statistical analysis
-├── figures/              # Manuscript figures and supplemental plots
+├── Manuscript/           # Manuscript
 ├── results/              # Outputs from selection indices and models
 ├── README.md             # This file
 └── LICENSE               # CC BY-NC-SA 4.0 License
